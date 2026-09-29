@@ -3,8 +3,8 @@ High School Senior passionate about Competitive Programming & Information Securi
 Targeting VinUniversity (CECS - Computer Science) | Aspiring Information Security Engineer.
 
 🔭
-Languages: C++ (C++17/20), Bash Scripting, Python (Basic).
+Languages: C++ (C++17/20), Bash Scripting.
 
-Focus: Data Structures & Algorithms, Automated Testing, Linux Environment (CLI/Network basics).
+Focus: Data Structures & Algorithms.
 
 Platforms: VNOJ, AtCoder, Codeforces.
